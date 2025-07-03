@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Sunny K Sebu 👋</h1>
-<h3 align="center">aka AdamSonja | Java Dev | Blockchain Nerd | DevOps Explorer</h3>
+<h3 align="center">aka AdamSonja | Java Dev | Blockchain Nerd |</h3>
 
 ---
 
