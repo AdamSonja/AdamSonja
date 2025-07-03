@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://github.com/AdamSonja/AdamSonja/assets/your_custom_id/your_img_id.gif" alt="aesthetic coding gif" width="100%" style="border-radius: 10px;"/>
+![Aesthetic Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
