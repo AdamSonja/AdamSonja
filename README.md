@@ -1,3 +1,8 @@
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/q2YzX6T.gif" alt="Cyberpunk Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hey there, I'm Sunny K Sebu 👋</h1>
 <h3 align="center">aka AdamSonja | Java Dev ☕ | Blockchain Nerd ⛓️ |</h3>
 
