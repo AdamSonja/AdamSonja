@@ -1,6 +1,8 @@
 <!-- Cyberpunk Banner -->
+<!-- Cyberpunk Neon Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/q2YzX6T.gif" alt="Cyberpunk Banner" width="100%"/>
+  <img src="https://i.imgur.com/RuCjHdU.jpg" alt="Cyberpunk City Neon" width="100%"/>
+=
 </p>
 
 <h1 align="center">Hey there, I'm Sunny K Sebu 👋</h1>
