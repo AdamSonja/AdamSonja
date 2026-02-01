@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXJueXJueXJueXJueXJueXJueXJueXJueXJueXJueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamSonja&theme=tokyo-night&hide_border=true&area=true&bg_color=1a1b27" width="100%" alt="3D Commit Graph"/>
 </p>
 
 ---
@@ -23,20 +23,15 @@
 
 ---
 
-### 🛠️ The Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,solidity,spring,hibernate,postgres,mongodb,git,linux,bash,postman,docker,vscode" />
-</p>
+### 🛠️ Technical Stack
 
 <div align="center">
 
-| Language / Tool | Specialized Expertise |
+| Category | Icons |
 | :--- | :--- |
-| **Java** | High-performance backend with **Spring Boot** & **Hibernate** |
-| **Blockchain** | **Hyperledger Besu** contributor & **EVM** internals |
-| **Security** | Zero-Knowledge Proofs, **SNARKs**, and Cryptography |
-| **Environment** | Arch/Ubuntu Power-user |
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,python,solidity" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate" /> |
+| **Infrastructure** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,linux,docker,bash" /> |
 
 </div>
 
@@ -50,18 +45,18 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamSonja&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamSonja&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-### ⚙️ Tools in my Workspace
+### ⚙️ Workspace & Power Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" width="50" title="IntelliJ"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" width="50" title="Vim"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="50" title="Version Control & IDEs"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="50" title="Canva"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="Hardhat"/>&nbsp;
-  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="50" title="Ethereum"/>&nbsp;
+  <img src="https://cryptologos.cc/logos/ganache-ganache-logo.png" width="50" title="Ganache"/>&nbsp;
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50" title="Postman"/>
 </p>
 
@@ -73,10 +68,6 @@
   <a href="https://linkedin.com/in/sunny-k-sebu-736623241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/SunnyKSebu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:ksebusunny@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4YmZ4JlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
 </p>
 
 <p align="center"><i>"May thy code compile on the first try, and thy proofs be succinct and non-interactive 🧪"</i></p>
