@@ -14,7 +14,7 @@
 | Project | Description | Status |
 | :--- | :--- | :--- |
 | 📐 **KZG Visualizer** | Full-stack implementation of **KZG Commitments** over BLS12-381. Features MSM and pairing verification from scratch. | [**View**](https://github.com/AdamSonja/KZG-Visualizer.git) |
-| 📸 **ZK Camera** | Researching **Proof-of-Authenticity** for digital media. Using ZKPs to verify image provenance and prevent deepfake manipulation. | ![Research](https://img.shields.io/badge/-In_Dev-orange) |
+| 📸 **ZK Camera** | Researching **Proof-of-Authenticity** for digital media. Using ZKPs to verify image provenance and prevent deepfake manipulation. | ![**View**](https://github.com/AdamSonja/ZK-Camera) |
 | 🧪 **Genomic Privacy** | Leveraging **zk-SNARKs** to analyze ethnic genomic data (VCF) without compromising individual privacy. | ![Research](https://img.shields.io/badge/-In_Dev-orange) |
 
 </div>
