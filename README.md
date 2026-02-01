@@ -22,9 +22,9 @@
 ---
 
 ### 🏆 Achievements
-- 🥇 **Winner - Smart India Hackathon 2025**
-  - Project: **DocRail AI** for Kochi Metro Rail Limited.
-  - Developed an AI-driven documentation system for large-scale rail infrastructure.
+- - Smart India Hackathon 2025 Finalist **
+  - Web3SSH IIIT SRI CITY FINALIST
+ 
 
 ---
 
@@ -40,15 +40,6 @@
 | **Workspace** | <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" /> |
 
 </div>
-
----
-
-### 📊 Code Metrics
-<p align="center">
-  <img src="https://img.shields.io/github/followers/AdamSonja?style=for-the-badge&logo=github&color=36BCF7" />
-  <img src="https://img.shields.io/github/directory-file-count/AdamSonja/KZG-Visualizer?style=for-the-badge&logo=github&color=36BCF7" />
-  <img src="https://img.shields.io/github/repo-size/AdamSonja/KZG-Visualizer?style=for-the-badge&logo=github&color=36BCF7" />
-</p>
 
 ---
 
