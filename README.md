@@ -37,27 +37,33 @@
 
 ---
 
+### ⚙️ Workspace & Power Tools
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" width="280" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="48" title="Canva"/>&nbsp;&nbsp;
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="48" title="Hardhat"/>&nbsp;&nbsp;
+        <img src="https://cryptologos.cc/logos/ganache-ganache-logo.png" width="48" title="Ganache"/>&nbsp;&nbsp;
+        <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png" width="48" title="Ethereum"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 📊 Vital Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AdamSonja&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamSonja&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamSonja&theme=tokyonight" width="100%" />
-</p>
-
----
-
-### ⚙️ Workspace & Power Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" width="50" title="Version Control & IDEs"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" width="50" title="Canva"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="50" title="Hardhat"/>&nbsp;
-  <img src="https://cryptologos.cc/logos/ganache-ganache-logo.png" width="50" title="Ganache"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="50" title="Postman"/>
 </p>
 
 ---
