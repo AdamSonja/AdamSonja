@@ -11,20 +11,19 @@
 
 <div align="center">
 
-| 📐 **KZG Commitment Implementation** | 🧪 **Genomic Privacy (ZKP)** |
-| :--- | :--- |
-| ![KZG](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge) | ![ZKP](https://img.shields.io/badge/Status-Research-orange?style=for-the-badge) |
-| A full-stack cryptographic tool visualizing **KZG commitments** over BLS12-381. Implemented MSM, Synthetic Division, and Bilinear Pairings from scratch. | Leveraging **zk-SNARKs** to process VCF genomic data without privacy leakage. Bridging Bioinformatics and Web3. |
-| [**View Repo**](https://github.com/AdamSonja/KZG-Visualizer.git) | *Private Repo (In Development)* |
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| 📐 **KZG Visualizer** | Full-stack implementation of **KZG Commitments** over BLS12-381. Features MSM and pairing verification from scratch. | [**View**](https://github.com/AdamSonja/KZG-Visualizer.git) |
+| 📸 **ZK Camera** | Researching **Proof-of-Authenticity** for digital media. Using ZKPs to verify image provenance and prevent deepfake manipulation. | ![Research](https://img.shields.io/badge/-In_Dev-orange) |
+| 🧪 **Genomic Privacy** | Leveraging **zk-SNARKs** to analyze ethnic genomic data (VCF) without compromising individual privacy. | ![Research](https://img.shields.io/badge/-In_Dev-orange) |
 
 </div>
 
 ---
 
 ### 🏆 Achievements
-- - Smart India Hackathon 2025 Finalist **
-  - Web3SSH IIIT SRI CITY FINALIST
- 
+-  Finalist - Smart India Hackathon 2025**
+-  Finalist - Web3SSH 2025
 
 ---
 
@@ -40,6 +39,7 @@
 | **Workspace** | <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" /> |
 
 </div>
+
 
 ---
 
